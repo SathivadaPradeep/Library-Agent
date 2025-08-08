@@ -3,77 +3,76 @@
 An AI-powered intelligent library assistant that revolutionizes how students discover and access academic resources.
 Overview
 
-The AI Library Agent is an intelligent, AI-powered virtual librarian designed to modernize the way users discover, access, and manage books, research papers, and digital resources. It serves as a smart knowledge assistant, capable of delivering highly personalized book recommendations, context-aware search results, and instant access to physical and digital collections. Whether for academic research, professional development, or leisure reading, the AI Library Agent enhances the user experience by making information retrieval faster, smarter, and more engaging.
 
-Core Capabilities
-Intelligent Book Recommendation System
+---
 
-Suggests books based on reading history, preferences, and search behavior.
+## **Overview**
 
-Curates dynamic reading lists like “Because You Read…”, “Trending Titles”, and “Editor’s Picks”.
+The **AI Library Agent** is an intelligent, AI-powered virtual librarian designed to modernize the way users discover, access, and manage books, research papers, and digital resources. It serves as a **smart knowledge assistant**, capable of delivering **highly personalized book recommendations**, context-aware search results, and instant access to physical and digital collections. Whether for academic research, professional development, or leisure reading, the AI Library Agent enhances the user experience by making information retrieval faster, smarter, and more engaging.
 
-Offers both physical and e-book recommendations for maximum choice.
+---
 
-Advanced Search & Retrieval
+## **Core Capabilities**
 
-Searches across library catalogs, academic databases, and multimedia archives.
+1. **Intelligent Book Recommendation System**
 
-Supports keyword, title, author, ISBN, and subject-based queries.
+   * Suggests books based on reading history, preferences, and search behavior.
+   * Curates dynamic reading lists like *“Because You Read…”*, *“Trending Titles”*, and *“Editor’s Picks”*.
+   * Offers both physical and e-book recommendations for maximum choice.
 
-Uses semantic search to deliver relevant results even when exact terms are unknown.
+2. **Advanced Search & Retrieval**
 
-Context-Aware Learning Paths
+   * Searches across library catalogs, academic databases, and multimedia archives.
+   * Supports keyword, title, author, ISBN, and subject-based queries.
+   * Uses semantic search to deliver relevant results even when exact terms are unknown.
 
-Builds topic-specific collections to guide users through a subject step-by-step.
+3. **Context-Aware Learning Paths**
 
-Adapts reading recommendations as the user progresses.
+   * Builds topic-specific collections to guide users through a subject step-by-step.
+   * Adapts reading recommendations as the user progresses.
 
-Resource Organization Tools
+4. **Resource Organization Tools**
 
-Create and manage reading lists, research collections, and personal libraries.
+   * Create and manage reading lists, research collections, and personal libraries.
+   * Add tags, annotations, and priorities for better resource management.
 
-Add tags, annotations, and priorities for better resource management.
+5. **Seamless Digital Access**
 
-Seamless Digital Access
+   * One-click access to e-books, audiobooks, PDFs, and online journals.
+   * Integration with digital platforms and academic repositories.
 
-One-click access to e-books, audiobooks, PDFs, and online journals.
+6. **Content Summarization & Previews**
 
-Integration with digital platforms and academic repositories.
+   * Generates concise summaries, abstracts, and highlights of books or papers.
+   * Helps users decide quickly whether a resource meets their needs.
 
-Content Summarization & Previews
+7. **Academic & Citation Support**
 
-Generates concise summaries, abstracts, and highlights of books or papers.
+   * Provides citations in APA, MLA, Chicago, and other formats.
+   * Links related books, articles, and research papers for deeper study.
 
-Helps users decide quickly whether a resource meets their needs.
+8. **Multi-Language & Accessibility Features**
 
-Academic & Citation Support
+   * Supports multiple languages for search and recommendations.
+   * Voice-command interaction and screen-reader compatibility for inclusive access.
 
-Provides citations in APA, MLA, Chicago, and other formats.
+9. **24/7 Virtual Assistance**
 
-Links related books, articles, and research papers for deeper study.
+   * Always available to answer questions, guide searches, and recommend resources.
 
-Multi-Language & Accessibility Features
+---
 
-Supports multiple languages for search and recommendations.
+## **Who Can Use It?**
 
-Voice-command interaction and screen-reader compatibility for inclusive access.
+* **Students & Researchers** – For academic projects, literature reviews, and topic exploration.
+* **Educators & Librarians** – To recommend curated reading lists and guide learners.
+* **General Readers** – To discover new books, authors, and genres of interest.
 
-24/7 Virtual Assistance
+---
 
-Always available to answer questions, guide searches, and recommend resources.
+## **Benefits**
 
-Who Can Use It?
-Students & Researchers – For academic projects, literature reviews, and topic exploration.
-
-Educators & Librarians – To recommend curated reading lists and guide learners.
-
-General Readers – To discover new books, authors, and genres of interest.
-
-Benefits
-Saves time by providing accurate and relevant search results instantly.
-
-Encourages discovery of new and related materials through AI-powered recommendations.
-
-Improves learning efficiency with organized reading paths and summaries.
-
-Offers an inclusive and accessible library experience for all users.
+* Saves time by providing accurate and relevant search results instantly.
+* Encourages discovery of new and related materials through AI-powered recommendations.
+* Improves learning efficiency with organized reading paths and summaries.
+* Offers an inclusive and accessible library experience for all users.
